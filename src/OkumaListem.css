@@ -1,0 +1,52 @@
+.OkumaListemMain .header input{
+    padding: 10px;
+    font-size: 14px;
+    border: 2px solid chartreuse;
+    border-radius: 20px;
+    width: 100px;
+
+
+}
+
+.OkumaListemMain .header button{
+    padding: 10px;
+    font-size: 14px;
+    margin: 5px;
+    margin-right: 0px;
+    background-color: white;
+    border-radius: 20px;
+    border-color: orange;
+   
+
+}
+
+.OkumaListemMain .header button:hover{
+    background-color: orange;
+    
+    cursor: pointer;
+}
+
+.OkumaListemMain .okumaListem li{
+    color: black;
+    background-color: rgba(88, 243, 16, 0.623);
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    list-style: none;
+    width: 230px;
+    border-radius: 25px;
+
+    transition: background-color .5s ease-out;
+
+
+}
+
+.OkumaListemMain .okumaListem li:hover{
+    background-color: rgb(252, 80, 0);
+    cursor: pointer;
+    color: white;
+}
+
+ul.okumaListem{
+    padding: 0px;
+}
