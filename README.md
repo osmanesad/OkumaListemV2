@@ -1,6 +1,6 @@
 Bu projede ReactJS kullanılarak basit bir TodoList uygulaması yapılmıştır.
 Aslında ilerki aşamada bir projem olan Okuma Listesi adındaki bir uygulamanın temellerini oluşturmaktadır.
-Fikirlerimi canlandırması ve neler eklenebilir gibi doruların cevabı için ön hazırlık çalışmasıdır.
+Fikirlerimi canlandırması ve neler eklenebilir gibi soruların cevabı için ön hazırlık çalışmasıdır.
 
 Uygulama içerisne eklenen paket:
 #react-flip-move - > https://github.com/joshwcomeau/react-flip-move
